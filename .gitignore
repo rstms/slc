@@ -1,0 +1,14 @@
+*.obj
+*.exe
+*.o
+*.aps
+Debug
+Release
+.vs
+.vscode
+.idea
+test.*
+LICENSE.txt
+*.nsi
+.release*
+.upload*
